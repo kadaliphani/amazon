@@ -1,12 +1,18 @@
 1234
+5678
 1234
 5678
 0000
+1111
 2222
 3333
+<<<<<<< HEAD
 5678
 1234
 5678
 abcd
 efgh
 ijkl
+=======
+4444
+>>>>>>> parent of e7cce1c... modified and deleted some files in file1.txt
